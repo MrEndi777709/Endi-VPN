@@ -9,7 +9,7 @@
 Все серверы используют протокол VLESS + Reality (xtls-rprx-vision).
 
 Как использовать:
-- Скопируйте ссылку на raw-файл sub.txt из этого репозитория.
+- Скопируйте ссылку на raw-файл mrendi-vpn.txt - https://raw.githubusercontent.com/MrEndi777709/Endi-VPN/main/mrendi-vpn.txt
 - Вставьте её в ваш VPN-клиент (Hiddify, Nekoray, v2rayNG, Sing-box и др.) как новую подписку.
 - Настройте автоматическое обновление (рекомендуется раз в 12 часов).
 
