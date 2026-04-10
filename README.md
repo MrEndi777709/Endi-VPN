@@ -22,7 +22,7 @@
 2. Нажмите **«+»** → **«Сканировать QR‑код»**.
 3. Наведите камеру на QR‑код ниже:
 
-   ![QR-код подписки](https://raw.githubusercontent.com/MrEndi777709/Endi-VPN/main/mrendi-vpn-qr-code.png)
+   ![QR-код подписки](https://raw.githubusercontent.com/MrEndi777709/Endi-VPN/main/mrendi-vpn-qr-code-all.png)
 
 4. Приложение автоматически распознает ссылку и добавит подписку.
 5. Нажмите **«Обновить»** — все серверы (Endi-VPN 1–8) появятся в клиенте.
