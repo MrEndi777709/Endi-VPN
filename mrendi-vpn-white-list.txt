@@ -1,17 +1,4 @@
 #profile-update-interval: 12
 #profile-title: Endi-VPN (Whitelist)
 
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@5.188.114.99:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Россия%201%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@5.188.114.99:8443?encryption=none&type=xhttp&security=reality&mode=auto&sni=ads.x5.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Россия%202%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@5.188.114.99:80?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Россия%203%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@5.188.114.99:8080?encryption=none&type=xhttp&security=reality&mode=auto&sni=smartcaptcha.yandexcloud.net&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#Россия%204%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@95.163.211.140:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Россия%205%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@95.163.210.78:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Россия%206%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@95.163.211.140:8443?encryption=none&type=xhttp&security=reality&mode=auto&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Россия%207%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@95.163.210.78:8443?encryption=none&type=xhttp&security=reality&mode=auto&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Россия%208%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@95.163.211.140:80?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Россия%209%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@95.163.210.78:80?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#Россия%2010%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@95.163.211.140:8080?encryption=none&type=xhttp&security=reality&mode=auto&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Россия%2011%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@95.163.210.78:8080?encryption=none&type=xhttp&security=reality&mode=auto&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#Россия%2012%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@81.200.149.156:80?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Россия%2013%20(обход)🇷🇺
-vless://95.163.211.140:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Нидерланды%201%20(обход)🇳🇱
+vless://75953410-2c55-4345-b36b-f6535b9f4f8c@81.200.149.156:80?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Россия%204%20(обход)🇷🇺
