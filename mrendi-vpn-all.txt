@@ -4,24 +4,9 @@
 # Россия
 vless://2654fc26-c24c-443f-9ee0-fd8ee7237757@telegram.private-networks-zk.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50#Россия%201%20🇷🇺
 vless://6d151e62-2da9-40dd-ac9f-5ae5b33ba8a5@telegram.private-networks-zk.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50#Россия%202%20🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@ru.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#Россия%203%20🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@ru.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#Россия%204%20🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@5.188.114.99:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Россия%205%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@5.188.114.99:8443?encryption=none&type=xhttp&security=reality&mode=auto&sni=ads.x5.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Россия%206%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@5.188.114.99:80?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Россия%207%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@5.188.114.99:8080?encryption=none&type=xhttp&security=reality&mode=auto&sni=smartcaptcha.yandexcloud.net&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#Россия%208%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@95.163.211.140:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Россия%209%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@95.163.210.78:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Россия%2010%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@95.163.211.140:8443?encryption=none&type=xhttp&security=reality&mode=auto&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Россия%2011%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@95.163.210.78:8443?encryption=none&type=xhttp&security=reality&mode=auto&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Россия%2012%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@95.163.211.140:80?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Россия%2013%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@95.163.210.78:80?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#Россия%2014%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@95.163.211.140:8080?encryption=none&type=xhttp&security=reality&mode=auto&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Россия%2015%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@95.163.210.78:8080?encryption=none&type=xhttp&security=reality&mode=auto&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#Россия%2016%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@lb5.aliusvpn.ru:443?encryption=none&type=xhttp&security=reality&sni=google.com&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#Россия%2017%20🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@lb8.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#Россия%2018%20🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@81.200.149.156:80?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Россия%2019%20(обход)🇷🇺
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@195.133.73.248:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Россия%2020%20🇷🇺
+vless://75953410-2c55-4345-b36b-f6535b9f4f8c@ru.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#Россия%203%20🇷🇺
+vless://75953410-2c55-4345-b36b-f6535b9f4f8c@81.200.149.156:80?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Россия%204%20(обход)🇷🇺
+vless://65632d4a-0e5a-4d96-a492-c1b1c7ab0305@nd.nitroo-tech.ru:23355?authority=&encryption=none&fp=chrome&pbk=ZaiARE0PFYXN6XQhxjFSGzpthEGHmytMX8LCq9gSek8&security=reality&serviceName=api&sid=41b06f&sni=www.apple.com&spx=/&type=grpc#Россия%205%20🇷🇺
 
 # Германия
 vless://dd7ab17c-92ca-4403-a4ab-388406f84229@45.145.56.169:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=www.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Германия%201%20🇩🇪
@@ -30,47 +15,27 @@ vless://dd7ab17c-92ca-4403-a4ab-388406f84229@45.145.56.183:1932?encryption=none&
 vless://dd7ab17c-92ca-4403-a4ab-388406f84229@45.145.56.189:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=www.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#Германия%204%20🇩🇪
 vless://dd7ab17c-92ca-4403-a4ab-388406f84229@45.145.56.254:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=www.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#Германия%205%20🇩🇪
 vless://dd7ab17c-92ca-4403-a4ab-388406f84229@185.126.67.43:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Германия%206%20🇩🇪
-vless://1d4be12f-5526-482d-a067-dcb7e4bbc0cc@92.119.166.63:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#Германия%207%20🇩🇪
-vless://4ba9f8c8-b028-4d46-be84-b80166f7cdba@balancer.germany.com:1234?security=&type=tcp&headerType=&path=&host=&flow=#Германия%208%20🇩🇪
-vless://4ba9f8c8-b028-4d46-be84-b80166f7cdba@de-1.devtoolspro.online:2043?security=reality&type=grpc&headerType=&authority=&serviceName=&flow=&mode=gun&sni=de-1.devtoolspro.online&fp=chrome&pbk=hs4DCk-WwUW3rOsxJ-vcj_MuzFCb8IGziFk5p9HYnBM&sid=#Германия%209%20🇩🇪
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@de2.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#Германия%2010%20🇩🇪
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@87.106.143.58:8443?encryption=none&type=grpc&security=reality&serviceName=GunService&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b&fp=chrome&mode=gun#Германия%2011%20🇩🇪
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@87.106.143.58:2053?encryption=none&type=xhttp&security=reality&path=%2FGunService&mode=stream-one&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Германия%2012%20🇩🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVm1hSDY0bkhtY0RGMjJIMVAwdDdRUE5GTUFHeXB4Zw@87.106.143.58:8388#Германия%2013%20🇩🇪
-vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@de.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=de.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Германия%2014%20🇩🇪
-vless://195.226.93.5:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=sun6-21.userapi.com&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Германия%2015%20🇩🇪
+vless://4ba9f8c8-b028-4d46-be84-b80166f7cdba@de-1.devtoolspro.online:2043?security=reality&type=grpc&headerType=&authority=&serviceName=&flow=&mode=gun&sni=de-1.devtoolspro.online&fp=chrome&pbk=hs4DCk-WwUW3rOsxJ-vcj_MuzFCb8IGziFk5p9HYnBM&sid=#Германия%207%20🇩🇪
+vless://75953410-2c55-4345-b36b-f6535b9f4f8c@de2.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#Германия%208%20🇩🇪
+vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@de.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=de.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Германия%209%20🇩🇪
+vless://4b481152-ba7f-4445-8cc0-d33d58546e23@7qqrbome80g.country-35.de-nfast.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=fr.de-nfast.com&spx=/#Германия%2010%20🇩🇪
 
 # Нидерланды
 vless://dd7ab17c-92ca-4403-a4ab-388406f84229@95.85.226.205:1932?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=www.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Нидерланды%201%20🇳🇱
 vless://dd7ab17c-92ca-4403-a4ab-388406f84229@95.85.226.206:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=www.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#Нидерланды%202%20🇳🇱
-vless://1d4be12f-5526-482d-a067-dcb7e4bbc0cc@45.43.92.159:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#Нидерланды%203%20🇳🇱
-vless://1d4be12f-5526-482d-a067-dcb7e4bbc0cc@152.53.60.19:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#Нидерланды%204%20🇳🇱
-vless://4ba9f8c8-b028-4d46-be84-b80166f7cdba@nl-1.devtoolspro.online:2043?security=reality&type=grpc&headerType=&authority=&serviceName=&flow=&mode=gun&sni=nl-1.devtoolspro.online&fp=chrome&pbk=QjzO51Z1SzCBsaPrwxE9PEm7GK2wNySjAYITQ3J8fU8&sid=#Нидерланды%205%20🇳🇱
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@nl.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Нидерланды%206%20🇳🇱
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@gaming-nl.aliusvpn.ru:2053?encryption=none&type=xhttp&security=reality&path=%2FGunService&mode=stream-one&sni=google.com&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Нидерланды%207%20🇳🇱
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@gaming-nl.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Нидерланды%208%20🇳🇱
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@gaming-nl.aliusvpn.ru:2053?encryption=none&type=xhttp&security=reality&path=%2FGunService&mode=stream-one&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Нидерланды%209%20🇳🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVm1hSDY0bkhtY0RGMjJIMVAwdDdRUE5GTUFHeXB4Zw@gaming-nl.aliusvpn.ru:8388#Нидерланды%2010%20🇳🇱
-vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@nld.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Нидерланды%2011%20🇳🇱
-vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@nld3.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=nld3.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Нидерланды%2012%20🇳🇱
-vless://95.163.211.140:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Нидерланды%2013%20🇳🇱
+vless://4ba9f8c8-b028-4d46-be84-b80166f7cdba@nl-1.devtoolspro.online:2043?security=reality&type=grpc&headerType=&authority=&serviceName=&flow=&mode=gun&sni=nl-1.devtoolspro.online&fp=chrome&pbk=QjzO51Z1SzCBsaPrwxE9PEm7GK2wNySjAYITQ3J8fU8&sid=#Нидерланды%203%20🇳🇱
+vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@nld.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Нидерланды%204%20🇳🇱
+vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@nld3.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=nld3.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Нидерланды%205%20🇳🇱
+vless://73c0a723-c0ab-4ad8-8f25-799b9bd54e36@216.57.105.74:443?security=reality&encryption=none&pbk=A1OvYDljz8ZJr7_1xe4j2H1AHsMuYEKifyjdWhdybzk&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=11e2#Нидерланды%206%20🇳🇱
 
 # Франция
-vless://1d4be12f-5526-482d-a067-dcb7e4bbc0cc@45.141.118.223:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#Франция%201%20🇫🇷
-vless://1d4be12f-5526-482d-a067-dcb7e4bbc0cc@45.67.139.95:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#Франция%202%20🇫🇷
-vless://4ba9f8c8-b028-4d46-be84-b80166f7cdba@france.balancer:1234?security=&type=tcp&headerType=&path=&host=&flow=#Франция%203%20🇫🇷
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@fr.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Франция%204%20🇫🇷
-vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@fr.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=fr.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Франция%205%20🇫🇷
+vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@fr.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=fr.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Франция%201%20🇫🇷
 
 # Великобритания
-vless://1d4be12f-5526-482d-a067-dcb7e4bbc0cc@152.53.91.94:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#Великобритания%201%20🇬🇧
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@uk.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Великобритания%202%20🇬🇧
-vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@193.32.176.166:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=gb.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Великобритания%203%20🇬🇧
-vless://185.245.80.138:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=sun6-21.userapi.com&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Великобритания%204%20🇬🇧
+vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@193.32.176.166:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=gb.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Великобритания%201%20🇬🇧
 
 # Швеция
-vless://1d4be12f-5526-482d-a067-dcb7e4bbc0cc@89.125.37.69:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#Швеция%201%20🇸🇪
-vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@se.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=se.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Швеция%202%20🇸🇪
+vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@se.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=se.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Швеция%201%20🇸🇪
 
 # Финляндия
 vless://36a2677c-15fa-4cce-a3ab-598fa6e4dfd1@87.121.82.13:33936?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=sso.passport.yandex.ru&pbk=fHYPVpBboesMf_SCl4V-O9-L93ksqs9t9yp6bxKt4Wo&sid=bd2a259882&spx=/#Финляндия%201%20🇫🇮
@@ -81,61 +46,53 @@ vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@fin2.pink-service.ru:443?encryption
 # Польша
 vless://TMG_fb05c718425@45.140.204.33:443?encryption=none&type=xhttp&mode=auto&host=www.kinopoisk.ru&path=/JMjFqdkAswkJ&security=reality&fp=chrome&sni=www.kinopoisk.ru&pbk=pVqZEt6EV2bFAyeugIZWGUabTI-MWkPokcN3BFbGl0s&sid=2eb085c1de19&spx=/#Польша%201%20🇵🇱
 vless://dd7ab17c-92ca-4403-a4ab-388406f84229@144.31.2.72:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=www.vk.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#Польша%202%20🇵🇱
-vless://4ba9f8c8-b028-4d46-be84-b80166f7cdba@balancer.poland.com:1234?security=&type=tcp&headerType=&path=&host=&flow=#Польша%203%20🇵🇱
-vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@pol.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=pol.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Польша%204%20🇵🇱
-vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@pol-game.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=pol-game.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Польша%205%20🇵🇱
+vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@pol.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=pol.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Польша%203%20🇵🇱
+vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@pol-game.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=pol-game.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Польша%204%20🇵🇱
 
 # Австрия
-vless://1d4be12f-5526-482d-a067-dcb7e4bbc0cc@152.53.0.215:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#Австрия%201%20🇦🇹
-vless://4ba9f8c8-b028-4d46-be84-b80166f7cdba@balancer.austria.com:1234?security=&type=tcp&headerType=&path=&host=&flow=#Австрия%202%20🇦🇹
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@at.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#Австрия%203%20🇦🇹
-vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@at.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=at.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Австрия%204%20🇦🇹
+vless://75953410-2c55-4345-b36b-f6535b9f4f8c@at.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#Австрия%201%20🇦🇹
+vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@at.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=at.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Австрия%202%20🇦🇹
 
 # Эстония
-vless://1d4be12f-5526-482d-a067-dcb7e4bbc0cc@77.239.126.152:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387#Эстония%201%20🇪🇪
-vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@est.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Эстония%202%20🇪🇪
+vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@est.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Эстония%201%20🇪🇪
 
 # Латвия
 vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@lv.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Латвия%201%20🇱🇻
 
 # США
-vless://1d4be12f-5526-482d-a067-dcb7e4bbc0cc@152.53.91.94:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#США%201%20🇺🇸
-vless://4ba9f8c8-b028-4d46-be84-b80166f7cdba@balancer.usa.com:1234?security=&type=tcp&headerType=&path=&host=&flow=#США%202%20🇺🇸
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@usa.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#США%203%20🇺🇸
-vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@us.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=us.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#США%204%20🇺🇸
-vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@147.45.60.5:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#США%205%20🇺🇸
+vless://75953410-2c55-4345-b36b-f6535b9f4f8c@usa.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#США%201%20🇺🇸
+vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@us.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=us.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#США%202%20🇺🇸
+vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@147.45.60.5:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.google.com&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#США%203%20🇺🇸
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.186.245.40:81?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#США%204%20🇺🇸
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.124:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#США%205%20🇺🇸
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.240:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#США%206%20🇺🇸
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.228:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#США%207%20🇺🇸
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.35.211.98:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#США%208%20🇺🇸
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.235:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#США%209%20🇺🇸
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.62:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#США%2010%20🇺🇸
+vless://6461860a-d367-4d47-8e82-7d8e1047a152@8.39.125.69:443?fp=chrome&host=aier.eu.cc&path=%2F&security=tls&sni=aier.eu.cc&type=ws#США%2011%20🇺🇸
 
 # Турция
-vless://1d4be12f-5526-482d-a067-dcb7e4bbc0cc@64.49.15.82:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=chat.deepseek.com&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047#Турция%201%20🇹🇷
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@tr.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Турция%202%20🇹🇷
-vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@tr.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=tr.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Турция%203%20🇹🇷
+vless://75953410-2c55-4345-b36b-f6535b9f4f8c@tr.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Турция%201%20🇹🇷
+vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@tr.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=tr.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Турция%202%20🇹🇷
 
 # Япония
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@jp.aliusvpn.ru:8446?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=google.com&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=aa12bb34#Япония%201%20🇯🇵
-vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@jp.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=jp.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Япония%202%20🇯🇵
-
-# Казахстан
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@kz.aliusvpn.ru:8445?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=google.com&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Казахстан%201%20🇰🇿
-
-# Аргентина
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@ar.aliusvpn.ru:8444?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=44103f58#Аргентина%201%20🇦🇷
+vless://38c1859d-53d7-4bd4-975a-b45152fea2c5@jp.pink-service.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=jp.pink-service.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#Япония%201%20🇯🇵
 
 # Гонконг
 vless://4ba9f8c8-b028-4d46-be84-b80166f7cdba@hk.frostmotiveseed.net:2053?security=reality&type=grpc&headerType=&authority=&serviceName=&flow=&mode=gun&sni=hk.frostmotiveseed.net&fp=qq&pbk=JJh7cKBY6AjmLIY1Wz2cYMssgd_01cu_rE5gohlBljc&sid=#Гонконг%201%20🇭🇰
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@hg.aliusvpn.ru:8448?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=bb44cc55#Гонконг%202%20🇭🇰
 
 # Чехия
 vless://75953410-2c55-4345-b36b-f6535b9f4f8c@cz.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Чехия%201%20🇨🇿
 
 # Испания
-vless://4ba9f8c8-b028-4d46-be84-b80166f7cdba@balancer.spain.com:1234?security=&type=tcp&headerType=&path=&host=&flow=#Испания%201%20🇪🇸
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@spain.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Испания%202%20🇪🇸
+vless://75953410-2c55-4345-b36b-f6535b9f4f8c@spain.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=aliusfilms.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Испания%201%20🇪🇸
 
-# Китай
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@fi.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=wechat.com&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Китай%201%20🇨🇳
+# Исландия
+vless://43488128-319e-f480-64ea-0acdc712e2a8@45.83.21.39:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7OqbbLDZwsSwh6D25ZavNneK3NiQs-gwrUJkrHAs_hI&security=reality&sid=f717aafc9dfcc96e&sni=www.grab.com&type=tcp#Исландия%201%20🇮🇸
 
-# Туркменистан
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@185.207.136.215:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=turkmenistan.gov.tm&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#Туркменистан%201%20🇹🇲
+# Новая Зеландия
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.15.140.128:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#Новая%20Зеландия%201%20🇳🇿
 
-# ЮАР
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@5.188.114.99:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=sun9-38.userapi.com&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=2356d1ae4b#ЮАР%201%20🇿🇦
+# Тайвань
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@167.253.153.162:443?fp=chrome&host=2026.hhhhh.eu.org&path=%2F167.253.153.162%3A443&security=tls&sni=2026.hhhhh.eu.org&type=ws#Тайвань%201%20🇹🇼
