@@ -1,4 +1,4 @@
 #profile-update-interval: 12
-#profile-title: Endi-VPN (Whitelist)
+#profile-title: Endi-VPN (обход)
 
-vless://75953410-2c55-4345-b36b-f6535b9f4f8c@81.200.149.156:80?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.vkvideo.ru&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1#Россия%201%20(обход)🇷🇺
+vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#⚠️%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D1%8B%20%D1%81%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%BE%D0%BC%20%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%20%D0%BD%D0%B5%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D1%8B
