@@ -1,5 +1,5 @@
 #profile-update-interval: 12
-#profile-title: Endi-VPN (All)
+#profile-title: Endi-VPN (black-list)
 
 # 🇬🇧 Великобритания 1
 vless://4a244438-8775-43b8-8b5c-4d3bb89d342c@test.iron-coral.test-cdn-kkk.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=tradingview.com#🇬🇧%20Великобритания%201
