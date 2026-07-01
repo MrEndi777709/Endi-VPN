@@ -1,8 +1,6 @@
 #profile-update-interval: 12
 #profile-title: Endi-VPN Beta (обход)
 
-vless://65c05606-6c1d-42d7-8f27-c06520159fb7@178.250.243.14:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=voicechat.core-multiplayer.com&pbk=7ohfkZlozjyAzazHHyeABBTyjEGwmNKj4wpnSsajyzU&sid=4fd3840415403f31#🇩🇪 Германия 1 (обход)
-vless://7573908b-d981-4153-92aa-33ee2d22144c@178.250.242.39:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=www.kinopoisk.ru&pbk=VH-4z1TvkJLyH9cgwdrhvMevxr3PltSBnMk43X6pi2U&sid=086007&spx=/#🇩🇪 Германия 2 (обход)
 vless://a78057fb-4dd8-48fb-a2d7-868a6c621442@188.72.103.3:443?encryption=none&type=xhttp&mode=packet-up&host=cherry.benzogangmoney.space&path=/media/cache/thumbs-b82f/&security=tls&fp=edge&sni=cherry.benzogangmoney.space&alpn=h2,http/1.1#🇳🇱 Нидерланды 1 (обход)
 vless://46856743-b431-4d07-bdc8-d93ff6301b22@188.72.103.3:443?encryption=none&type=xhttp&mode=packet-up&host=cherry.benzogangmoney.space&path=/media/cache/thumbs-b82f/&security=tls&fp=edge&sni=cherry.benzogangmoney.space&alpn=h2,http/1.1#🇳🇱 Нидерланды 2 (обход)
 vless://1e643754-d546-454f-81bf-477e2761881e@188.72.103.3:443?encryption=none&type=xhttp&mode=packet-up&host=cherry.benzogangmoney.space&path=/media/cache/thumbs-b82f/&security=tls&fp=edge&sni=cherry.benzogangmoney.space&alpn=h2,http/1.1#🇳🇱 Нидерланды 3 (обход)
@@ -11,10 +9,5 @@ vless://24e4e119-260f-4566-90e8-a3657f07e7cf@188.72.103.3:443?encryption=none&ty
 vless://a55ff16a-27c3-4834-81f7-9c24aa17009a@188.72.103.3:443?encryption=none&type=xhttp&mode=packet-up&host=grape.hotwigga.space&path=/content/assets/main-6e1a/&security=tls&fp=edge&sni=grape.hotwigga.space&alpn=h2,http/1.1#🇳🇱 Нидерланды 6 (обход)
 vless://768d7989-0d35-40ee-bc64-9f7113d70ec3@188.72.103.3:443?encryption=none&type=xhttp&mode=packet-up&host=grape.hotwigga.space&path=/content/assets/main-6e1a/&security=tls&fp=edge&sni=grape.hotwigga.space&alpn=h2,http/1.1#🇳🇱 Нидерланды 7 (обход)
 vless://70b4161f-3c7f-4ea5-b955-68d0dad87e4f@188.72.103.3:443?encryption=none&type=xhttp&mode=packet-up&host=grape.hotwigga.space&path=/content/assets/main-6e1a/&security=tls&fp=edge&sni=grape.hotwigga.space&alpn=h2,http/1.1#🇳🇱 Нидерланды 8 (обход)
-vless://6d1cf8d0-d903-4a64-9e2b-fe2c5d2c3e12@46.243.235.184:20447?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=xBpyo1hUqSIC_DjeVuTDN1EqAsTnFNJPDgBoJZ79clw&sid=aabb#🇬🇧 Великобритания 1 (обход)
-vless://6d1cf8d0-d903-4a64-9e2b-fe2c5d2c3e12@46.243.235.184:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=6nsVaGZyZOiD9A0Rd9ci-r-7PO_i2ZP5kPK-0orxdS4&sid=aabb#🇬🇧 Великобритания 2 (обход)
 vless://910776af-dce0-425d-ae28-4fb154b9f7c2@217.16.29.31:65535?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=MAsHVMzSDwqVpFoCqpxPSjLeQECxlWiHdpaQKRWq3AM&sid=495739b968708ab7#🇷🇺 Россия 1 (обход)
 vless://910776af-dce0-425d-ae28-4fb154b9f7c2@217.16.29.31:65535?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=max.ru&pbk=MAsHVMzSDwqVpFoCqpxPSjLeQECxlWiHdpaQKRWq3AM&sid=495739b968708ab7#🇷🇺 Россия 2 (обход)
-vless://9d748910-8306-411a-9b2e-11f0a2a4486f@78.159.250.32:1111?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&host=api-maps.yandex.ru&path=/&security=reality&fp=firefox&sni=api-maps.yandex.ru&pbk=YuhNgtj_Tf8WNLiSB2bNJKPvfwmqa6PNRpbP8TvNkzA#🇷🇺 Россия 3 (обход)
-vless://6d1cf8d0-d903-4a64-9e2b-fe2c5d2c3e12@46.243.235.184:20447?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=xBpyo1hUqSIC_DjeVuTDN1EqAsTnFNJPDgBoJZ79clw&sid=aabb#🇺🇸 США 1 (обход)
-vless://6d1cf8d0-d903-4a64-9e2b-fe2c5d2c3e12@46.243.235.184:2053?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=max.ru&pbk=6nsVaGZyZOiD9A0Rd9ci-r-7PO_i2ZP5kPK-0orxdS4&sid=aabb#🇦🇹 Австрия 1 (обход)
