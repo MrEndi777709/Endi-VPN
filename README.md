@@ -13,8 +13,8 @@
 | Тип | Ссылка (raw) |
 |-----|--------------|
 | Все серверы | `https://raw.githubusercontent.com/MrEndi777709/Endi-VPN/main/mrendi-vpn-all.txt` |
-| Без обхода | `https://raw.githubusercontent.com/MrEndi777709/Endi-VPN/main/mrendi-vpn-nobypass.txt` |
-| Только обход | `https://raw.githubusercontent.com/MrEndi777709/Endi-VPN/main/mrendi-vpn-bypass.txt` |
+| Без обхода | `https://raw.githubusercontent.com/MrEndi777709/Endi-VPN/main/mrendi-vpn-black-list.txt` |
+| Только обход | `https://raw.githubusercontent.com/MrEndi777709/Endi-VPN/main/mrendi-vpn-white-list.txt` |
 
 ## 📱 Инструкция по добавлению подписки
 
