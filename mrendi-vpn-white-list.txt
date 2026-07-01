@@ -1,4 +1,6 @@
 #profile-update-interval: 12
-#profile-title: Endi-VPN (заглушка)
+#profile-title: Endi-VPN (обход)
 
-vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?encryption=none&type=tcp&security=none#⚠️%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20Endi-VPN%20%D0%BD%D0%B0%20%D0%BF%D0%B0%D1%83%D0%B7%D0%B5.%20%D0%90%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B8%D1%89%D0%B8%D1%82%D0%B5%20%D0%B2%20README.md
+vless://910776af-dce0-425d-ae28-4fb154b9f7c2@217.16.29.31:65535?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=max.ru&pbk=MAsHVMzSDwqVpFoCqpxPSjLeQECxlWiHdpaQKRWq3AM&sid=495739b968708ab7#🇷🇺 Россия 1 (обход)
+vless://6d1cf8d0-d903-4a64-9e2b-fe2c5d2c3e12@46.243.235.184:2053?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=6nsVaGZyZOiD9A0Rd9ci-r-7PO_i2ZP5kPK-0orxdS4&sid=aabb#🇪🇺 Европа 1 (обход)
+vless://9b08bee0-2615-46c6-8939-54b575517a26@78.159.250.230:443?type=grpc&mode=gun&serviceName=/sequre/grpc/&security=tls&sni=95.85.246.16.speed-storage.ru&alpn=h2&fp=edge&allowInsecure=0#🇪🇺 Европа 2 (обход)
