@@ -95,7 +95,7 @@
 
 ### 🤖 Telegram-боты (проверено лично)
 
-1. **[@tgmfreevpn_bot](https://t.me/tgmfreevpn_bot?start=8285595763)**
+1. **[@tgmfreevpn_bot](https://t.me/tgmfreevpn_bot?start=8190238866)**
    - **10 ТБ трафика навсегда.**
    - **Обходит белые списки** (глушилки).
    - **Wi-Fi серверы.**
@@ -115,7 +115,7 @@
    - 1 день пробного премиума, далее **1-4 сервера, 250 ГБ в месяц бесплатно**.
    - Белые списки не обходит, но работает стабильно.
 
-**Совет:** идеальная связка — **[@tgmfreevpn_bot](https://t.me/tgmfreevpn_bot?start=8285595763)** (10 ТБ + обход) как основной, + **[@NetShadowVPN_bot](https://t.me/NetShadowVPN_bot?start=ref_8285595763)** для стабильного повседневного использования.
+**Совет:** идеальная связка — **[@tgmfreevpn_bot](https://t.me/tgmfreevpn_bot?start=8190238866)** (10 ТБ + обход) как основной, + **[@NetShadowVPN_bot](https://t.me/NetShadowVPN_bot?start=ref_8285595763)** для стабильного повседневного использования.
 
 ---
 
